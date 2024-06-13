@@ -6,6 +6,7 @@
     "default": {
     "max_tokens": 1024,
     "temperature": 1.0,
+    "do_sample": False
     "top_p": 0,
     "presence_penalty": 0,
     "frequency_penalty": 0,
