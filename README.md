@@ -11,3 +11,5 @@ The idea of having to read endless amounts of email is cumbersome, many may agre
 
 ### Please Note:
 - The max email size that can be read is 50 KB
+### Features to be added
+- reading emails larger than 50kb
