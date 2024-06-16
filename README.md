@@ -6,5 +6,5 @@ The idea of having to read endless amounts of email is cumbersome, many may agre
 
 ## Getting started
 - Ensure that you have [Ollama](https://ollama.com/download) installed and served on the device you are running the email client on. The api endpoint is hardcoded as http://localhost:11434/api/generate.
-- Once that has been done, download the repo as a zip archive, extract the contents and choose between installing it using powershell or by double-cliking the msi-installer. This will install it as a program on your device and can be launched from the start-menu. See below:
+- Once that has been done, download the repo as a zip archive, extract the contents and choose between installing it using powershell. This will install it as a program on your device and can be launched from the start-menu. See below:
 ![test_1](https://github.com/perpendicularai/OllaMail/assets/146530480/0e62d37e-2859-4118-a10a-3c3ade7fdbd5)
