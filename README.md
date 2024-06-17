@@ -14,6 +14,7 @@ The idea of having to read endless amounts of email is cumbersome, many may agre
 - 1 (Send) : Sends an email
 - 2 (Edit) : Presents a prompt to generate a new reply to the email
 - 3 (Quit) : Exit the program
+
 Misc:
 - Mark email as read or unread
 
