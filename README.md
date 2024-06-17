@@ -11,9 +11,10 @@ The idea of having to read endless amounts of email is cumbersome, many may agre
 ![test_1](https://github.com/perpendicularai/OllaMail/assets/146530480/0e62d37e-2859-4118-a10a-3c3ade7fdbd5)
 
 ## Current features
-- send> : Sends an email
-- edit : Presents a prompt to generate a new reply to the email
-- quit : Exit the program
+- 1 (Send) : Sends an email
+- 2 (Edit) : Presents a prompt to generate a new reply to the email
+- 3 (Quit) : Exit the program
+Misc:
 - Mark email as read or unread
 
 ### Please Note:
