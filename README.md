@@ -9,7 +9,13 @@ The idea of having to read endless amounts of email is cumbersome, many may agre
 - Once that has been done, download the repo as a zip archive, extract the contents and install it using powershell. This will install it as a program on your device and can be launched from the start-menu. See below:
 ![test_1](https://github.com/perpendicularai/OllaMail/assets/146530480/0e62d37e-2859-4118-a10a-3c3ade7fdbd5)
 
+## Current features
+- send> : Sends an email
+- edit : Presents a prompt to generate a new reply to the email
+- skip : Mark email as unread
+
 ### Please Note:
 - The max email size that can be read is 50 KB
 ### Features to be added
 - reading emails larger than 50kb
+- downloading and viewing attachments
