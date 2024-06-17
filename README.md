@@ -13,7 +13,8 @@ The idea of having to read endless amounts of email is cumbersome, many may agre
 ## Current features
 - send> : Sends an email
 - edit : Presents a prompt to generate a new reply to the email
-- skip : Mark email as unread
+- quit : Exit the program
+- Mark email as read or unread
 
 ### Please Note:
 - The max email size that can be read is 50 KB
