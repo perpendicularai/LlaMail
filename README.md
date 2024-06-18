@@ -7,7 +7,7 @@ The idea of having to read endless amounts of email is cumbersome, many may agre
 ## Getting started
 - Firstly, you'll need to have the (1) mail server address for your email server, (2) the email address of the account you would like to log into and (3) the password. Imap uses port 587 for sending emails, which is hardcoded as default.
 - Ensure that you have [Ollama](https://ollama.com/download) installed and running Meta's [llama3](https://llama.meta.com/llama3/) , served on the device you are running the email client on. The api endpoint is hardcoded as http://localhost:11434/api/generate.
-- Once that has been done, download the repo as a zip archive extract the contents, download the [mssixbundle](https://www.dropbox.com/scl/fi/wy9zw3avfcn44tkx8xvp6/OllaMail_1.0.1.0_x64.msixbundle?rlkey=gg5hgmib8x10srgdqv7x9h1ed&st=jv6kjm60&dl=0)  from Dropbox and save to the OllaMail directory. From here you may choose to install it using Powershell or double-click the msixbundle. This will install it as a program on your device and can be launched from the start-menu. See below:
+- Once that has been done, download the [repo](https://github.com/perpendicularai/OllaMail/archive/refs/heads/main.zip) as a zip archive extract the contents, download the [mssixbundle](https://www.dropbox.com/scl/fi/wy9zw3avfcn44tkx8xvp6/OllaMail_1.0.1.0_x64.msixbundle?rlkey=gg5hgmib8x10srgdqv7x9h1ed&st=jv6kjm60&dl=0)  from Dropbox and save to the OllaMail directory. From here you may choose to install it using Powershell or double-click the msixbundle. This will install it as a program on your device and can be launched from the start-menu. See below:
 ![test_1](https://github.com/perpendicularai/OllaMail/assets/146530480/0e62d37e-2859-4118-a10a-3c3ade7fdbd5)
 
 ## Current features
