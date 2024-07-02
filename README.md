@@ -1,4 +1,4 @@
-# OllaMail
+# LlaMail
 A Windows console email client powered by LlamaCpp
 
 ## Project Background
