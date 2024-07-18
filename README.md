@@ -12,4 +12,7 @@ The idea of having to read endless amounts of email is cumbersome, many may agre
 - Once that has been done, navigate to [releases](https://github.com/perpendicularai/LlaMail/releases), then first download the zip archive named source code, extract the contents and then download the msixbundle and store it in the same directory. From here you have either the option of installing it using Powershell or by double-clicking the msixbundle package. Once the program has been installed, can it then be launched from the start-menu. See below:
 ![test_1](https://github.com/perpendicularai/OllaMail/assets/146530480/0e62d37e-2859-4118-a10a-3c3ade7fdbd5)
 
+## 📹 Short Films
+
+https://github.com/user-attachments/assets/acb54bab-fcf6-4099-bdd2-2cd34500db3c
 
