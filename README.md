@@ -1,4 +1,4 @@
-# 📬 LlaMail
+# 📬 LlaMail :octocat:
 A Windows console email client powered by LlamaCpp
 
 ## 📰 Project Background
