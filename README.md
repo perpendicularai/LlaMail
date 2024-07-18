@@ -10,6 +10,8 @@ The idea of having to read endless amounts of email is cumbersome, many may agre
 - Clone the [APIinaShell](https://github.com/perpendicularai/APIinaShell) repo and serve it with your GGUF model of choice. You may obtain a copy of a gguf model from [Huggingface](https://huggingface.co/models?sort=trending&search=gguf).
 - Serve the model with your desired host and port configuration.
 - Once that has been done, navigate to [releases](https://github.com/perpendicularai/LlaMail/releases), then first download the zip archive named source code, extract the contents and then download the msixbundle and store it in the same directory. From here you have either the option of installing it using Powershell or by double-clicking the msixbundle package. Once the program has been installed, can it then be launched from the start-menu. See below:
+
+## 📷 Photo Gallery
 ![test_1](https://github.com/perpendicularai/OllaMail/assets/146530480/0e62d37e-2859-4118-a10a-3c3ade7fdbd5)
 
 
